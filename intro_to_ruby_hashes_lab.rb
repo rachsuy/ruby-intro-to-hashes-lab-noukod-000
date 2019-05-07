@@ -7,7 +7,7 @@ def actor
 end
 
 def monopoly
-monopoly =  {
+monopoly =  {:name =>"string"
   :railroads=>
   {
     :pieces=>4,

@@ -3,11 +3,11 @@ def new_hash
 end
 
 def actor
- actor={}
+ actor={:name =>"string"}
 end
 
 def monopoly
-monopoly =  {:name =>"string"
+monopoly =  {
   :railroads=>
   {
     :pieces=>4,
